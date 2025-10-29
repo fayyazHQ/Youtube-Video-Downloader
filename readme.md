@@ -16,13 +16,11 @@ This tool lets you download videos or audio from YouTube by just pasting a link.
 
     ``` 
     pip install yt_dlp 
-    
     ```
 
 2. Clone the repo and run it as:
 
     ``` 
     python YT_video_downloader.py
-    
     ```
 
