@@ -24,3 +24,5 @@ This tool lets you download videos or audio from YouTube by just pasting a link.
     python YT_video_downloader.py
     ```
 
+<br>
+This project has been depriciated and will no longer have any updates
